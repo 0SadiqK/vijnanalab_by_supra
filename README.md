@@ -41,12 +41,12 @@ npm run dev
 ```
 ---
 ## Project Structure
-components/        UI components
-pages/             Views & routes
-services/          API & helpers
-App.tsx            App entry
-index.tsx          Render
-vite.config.ts     Config
+- components/        UI components
+- pages/             Views & routes
+- services/          API & helpers
+- App.tsx            App entry
+- index.tsx          Render
+- vite.config.ts     Config
 
 ---
 ## Contributing
